@@ -31,5 +31,4 @@ while(True):
         break #to break out of the loop
 
 cap.release 
-cv2.waitKey(0)
 cv2.detroyAllWindows()
