@@ -8,4 +8,4 @@ Code [here](https://github.com/HeizerSpider/openCV_adventures/blob/master/eye_tr
 
 ### Object Detection using SSD Mobilenet Model
 
-Code [here]()
+Video stream obejct detection code [here](https://github.com/HeizerSpider/openCV_adventures/blob/master/ssd_mobilenet/object_tracking_video.py)
