@@ -10,6 +10,6 @@ Code [here](https://github.com/HeizerSpider/openCV_adventures/blob/master/eye_tr
 
 Video stream obejct detection code [here](https://github.com/HeizerSpider/openCV_adventures/blob/master/ssd_mobilenet/object_tracking_video.py)
 
-### Object Detection using YOlO model
+### Object Detection using YOLO model
 
 Video stream from webcam with labelling of bounding boxes [here](https://github.com/HeizerSpider/openCV_adventures/blob/master/yolo_cam.py)
